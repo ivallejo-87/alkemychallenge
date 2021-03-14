@@ -1,0 +1,68 @@
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\AlkemyLabs - Challenge.dll.config
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\AlkemyLabs - Challenge.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\AlkemyLabs - Challenge.pdb
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\csc.exe
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\csc.exe.config
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\csc.rsp
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\csi.exe
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\csi.exe.config
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\csi.rsp
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.AppContext.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Console.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.IO.Compression.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.IO.Pipes.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Security.Claims.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.ValueTuple.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\vbc.exe
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\vbc.exe.config
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\vbc.rsp
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\VBCSCompiler.exe
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\obj\Debug\AlkemyLabs - Challenge.csprojAssemblyReference.cache
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\obj\Debug\AlkemyLabs - Challenge.csproj.CoreCompileInputs.cache
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\obj\Debug\AlkemyLabs - Challenge.csproj.CopyComplete
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\obj\Debug\AlkemyLabs - Challenge.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\obj\Debug\AlkemyLabs - Challenge.pdb
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\MySql.Data.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\Google.Protobuf.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\Zstandard.Net.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\BouncyCastle.Crypto.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\Ubiety.Dns.Core.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\Renci.SshNet.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\System.Buffers.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\K4os.Compression.LZ4.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\K4os.Hash.xxHash.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IvanV\source\repos\AlkemyLabs - Challenge\AlkemyLabs - Challenge\bin\MySql.Data.xml
